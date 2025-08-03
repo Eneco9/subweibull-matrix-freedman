@@ -53,6 +53,4 @@ The script prints a table of empirical vs.
 | 0.05 | ...       | ...       | ...      | ...         |
 | 0.01 | ...       | ...       | ...      | ...         |
 
-## License
 
-This project is released under the MIT License.
